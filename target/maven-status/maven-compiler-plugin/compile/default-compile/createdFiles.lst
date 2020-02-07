@@ -1,0 +1,6 @@
+ui\automation\libertymutual\CommonController.class
+ui\automation\libertymutual\pages\HomePage.class
+ui\automation\libertymutual\pages\SelectProduct.class
+ui\automation\libertymutual\application\ApplicationObject.class
+ui\automation\libertymutual\constants\XpathConstants.class
+ui\automation\libertymutual\pages\PersonalInformation.class
